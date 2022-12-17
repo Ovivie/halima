@@ -1,0 +1,6 @@
+mkdir git_project && cd git_project
+	- create a git folder and cd into it
+git init 
+	- to initiallize git
+touch gitFile1.txt
+	- to create a gitFile1.txt
