@@ -4,3 +4,15 @@ git init
 	- to initiallize git
 touch gitFile1.txt
 	- to create a gitFile1.txt
+
+git status
+	- to confirm your present working area
+git add .
+	- to add to your staging area for tracking
+git commit -m "message" 
+	- for new commit with one line comment
+git commit -am "message"
+	- for committing items already being tracked
+git --all
+	- to commit with multi line comment
+
