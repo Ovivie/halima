@@ -1,0 +1,13 @@
+CTL + L = to clear Screen
+Clear = to Clear Screen
+
+ls = list
+ls -l = long list
+ls -t = table list
+ls- a = show hidden file
+
+ll = long list
+ll -h = display ficple size
+ll - ltrah = display file size
+ll - ah = A;phabetical order
+ll -ltr = table reable format
