@@ -1,4 +1,13 @@
-mkdir git_project && cd git_project
+git rm --cached gitfile1.txt
+	- to delete 
+
+git log 
+git log --oneline
+git log -5 --oneline
+	- to see your log
+
+git log --since=2022/08/02
+git log --until="2022/08/02"mkdir git_project && cd git_project
 	- create a git folder and cd into it
 git init 
 	- to initiallize git
@@ -15,4 +24,11 @@ git commit -am "message"
 	- for committing items already being tracked
 git --all
 	- to commit with multi line comment
+
+
+
+
+
+
+
 
